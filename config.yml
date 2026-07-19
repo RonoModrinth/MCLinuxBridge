@@ -1,0 +1,11 @@
+whitelist-enabled: true
+
+whitelisted-commands:
+  - "help"
+  - "fastfetch"
+  - "cancel"
+  - "free"
+  - "df"
+  - "uname"
+  - "ls"
+  - "cat"

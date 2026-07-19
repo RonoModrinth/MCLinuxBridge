@@ -1,0 +1,8 @@
+name: MCLinuxBridge
+version: 1.0
+main: com.example.mclinux.MCLinuxBridge
+api-version: 1.20
+commands:
+  mclinux:
+    description: Runs a command on Linux.
+    permission: mclinux.admin
